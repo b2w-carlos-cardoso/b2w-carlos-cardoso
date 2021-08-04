@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @b2w-carlos-cardoso
+- 👀 I’m interested in tecnology
+- 🌱 I’m currently learning clean architecture
